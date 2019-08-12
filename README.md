@@ -10,5 +10,5 @@ Follow and unfollow script for instagram
 - Paste code here and hit Enter  
 
 ### Timeout
-	 Set time of clicking button after this time.
+	 Set time of clicking button
 	 1 second = 1000
