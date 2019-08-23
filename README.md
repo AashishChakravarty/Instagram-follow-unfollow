@@ -7,7 +7,7 @@ Follow and unfollow script for instagram
 	- **Google Chrome**
 		- ***Windows & Linux*** - Ctrl + Shift + J
 		- ***Mac*** - Cmd + Option + J
-- Paste code here and hit Enter  
+- Paste code and hit Enter  
 
 ### Timeout
 	 Set time of clicking button
